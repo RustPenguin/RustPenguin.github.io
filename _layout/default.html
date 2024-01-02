@@ -1,8 +1,13 @@
 ---
 ---
-
-{% include header %}
-
-{{ content }}
-
-{% include footer %}
+<!DOCTYPE html>
+<html lang="ko">
+    {% include header %}
+    <body>
+        {% include top %}
+        
+        {{ content }}
+        
+        {% include footer %}
+    </body>
+</html>
