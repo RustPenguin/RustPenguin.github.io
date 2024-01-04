@@ -6,11 +6,17 @@ layout: post
 
 안녕하세요! Rust 와 관련한 정보들을 다루는 페이지 입니다. 현재는 공사중이며, 천천히 개선해 나갈 예정입니다.
 
+## Index
+
+- [Rust Jobs](#jobs)
+
+- [Road Map](#roadmap)
+
 <br><br>
 
-## Rust Jobs
+## [Rust Jobs](#jobs)
 
-*자세한 내용들은 공고를 참고해주세요*
+*러스트 개발자 구인공고입니다. 자세한 내용들은 공고를 참고해주세요*
 
 <br>
 
