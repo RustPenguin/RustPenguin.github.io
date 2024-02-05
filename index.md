@@ -8,21 +8,44 @@ layout: post
 
 ## Index
 
-- [Road Map](#road-map)
+- [Get Started](#get-started)
 
-- [Rust Libraries](#rust-libraries)
+- [Road Map](#road-map)
 
 - [Rust Books](#rust-books)
 
+- [Rust Libraries](#rust-libraries)
+
 - [Rust Jobs](#rust-jobs)
+
+- [Rust News](#rust-news)
+
+- [Community](#community)
 
 <br><br>
 
+## Get Started
+
+- [러스트 공식 홈페이지](https://www.rust-lang.org/)
+
+- [Rust Playground](https://play.rust-lang.org/)
+
+- [비주얼 스튜디오 코드](https://code.visualstudio.com/)
+
+- [Rust Rover - Jetbrain Rust IDE](https://www.jetbrains.com/rust/)
+
 ## Road Map
+
+- [공식 러스트 가이드](https://doc.rust-lang.org/book/)
+
+- [예제로 배우는 러스트](https://doc.rust-lang.org/rust-by-example/)
+
+- [Rustling](https://github.com/rust-lang/rustlings/)
+
+## Rust Books
 
 ## Rust Libraries
 
-## Rust Books
 
 ## Rust Jobs
 
@@ -35,3 +58,15 @@ layout: post
 - 더 키 - [솔라나 개발자](https://organized-plot-a3f.notion.site/14bc2919021a41678288c38a2a8749c9)<br>
 
 - 윌로그 - [백엔드 개발자](https://www.wanted.co.kr/wd/164098)<br>
+
+## Rust News
+
+- [주간 러스트](https://this-week-in-rust.org/)
+
+- [Rust 블로그](https://blog.rust-lang.org/)
+
+- [Rust 읽기](https://readrust.net/)
+
+## Community
+
+- [Rustcon](https://rustconf.com/)
