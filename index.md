@@ -64,7 +64,7 @@ Rust 공식 홈페이지에서 제공하는 가이드입니다. 기초적인 내
 
 ### [러스트 디자인 패턴](https://rust-unofficial.github.io/patterns/intro.html)
 
-
+러스트로 어떻게 디자인 패턴을 하면 좋을지에 다루는 강좌입니다. 널리 알려진 패턴들을 다루고 있으며, 코딩 스타일에 대한 가이드도 같이 제공하고 있습니다.
 
 ### [Cargo의 책](https://doc.rust-lang.org/cargo/index.html)
 
